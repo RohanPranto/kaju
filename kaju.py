@@ -132,7 +132,7 @@ def run_assistant():
 while True:
     run_assistant()
 
-#install this packages firstly, tupe these bottom lines in terminal
+#install these packages firstly, tupe these bottom lines in terminal
 # pip install SpeechRecognition
 # pip install pyttsx3
 # pip install pywhatkit
