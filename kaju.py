@@ -138,13 +138,3 @@ def run_assistant() -> None:
 
 while True:
     run_assistant()
-
-# install these packages firstly, tupe these bottom lines in terminal
-# pip install SpeechRecognition
-# pip install pyttsx3
-# pip install pywhatkit
-# pip install wikipedia
-# pip install pyjokes
-# pip install requests
-# pip install fontstyle
-# pip install beautifulsoup4
